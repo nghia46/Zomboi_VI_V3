@@ -1,0 +1,74 @@
+Challenge_VN = {
+    Challenge_YouHaveOneDay_name = "Bạn có một ngày",
+	Challenge_YouHaveOneDay_desc = "Bạn đang trở lại Knox.Bạn đang trở lại bị nhiễm Zomboid đầu tiên.<line> <line> bạn có một ngày tương đối an toàn.Zombies sẽ đến với số lượng lớn, và chúng sẽ tìm thấy bạn.Bạn đã ở đâu trong lần cuối ở đây?Tốt hơn là tìm nó nhanh chóng.<line> <line> [Chúng tôi cảm ơn cộng đồng Mapper Bobheckling đã tái tạo bản đồ 0,1.5 cũ với bộ công cụ PZ hiện tại.] ",
+
+    Challenge_WinterIsComing_name = "Mùa đông đang tới",
+	Challenge_WinterIsComing_desc = "Đó là giữa tháng 7, nhưng đột nhiên có một cơn gió lạnh. Trong một thời gian chỉ ba ngày, một mùa đông sẽ không giống trước đó. <LINE> <LINE>Bạn thức dậy ở một vị trí bị cô lập.Bạn có nguồn cung cấp ít ỏi, và zombies có thể bị chậm lại bởi cái lạnh dữ dội - nhưng chúng không kém. <LINE> <LINE> mặc cho ấm vào, người sống sót à!...",
+
+	Challenge_OpeningHours_name = "Giờ Mở Cửa",
+    Challenge_OpeningHours_desc = "Trung tâm mua sắm được bao quanh.Ngày xửa ngày xưa, đó là một nơi quan trọng trong cuộc sống của họ.Bản năng đã dẫn họ đến cửa của nó.Một ký ức về những gì họ đã từng làm ...<LINE> <LINE>Bạn ở một mình, nhưng không lâu.Vào lúc 9 giờ sáng, trung tâm thương mại sẽ sẵn sàng: Cửa sẽ mở và đám đông sẽ vào. <LINE> <LINE> Hãy sẵn sàng.",
+
+	Challenge_AReallyCDDAy_name = "A Really CD DA",
+	Challenge_AReallyCDDAy_desc = "Bạn ra khỏi nhà tắm và bị ngã nặng. Bạn say rượu, và bị cảm lạnh khó chịu. <LINE> <LINE>Trên hết, ngôi nhà đang bốc cháy!Hôm nay chắc chắn không phải là ngày của bạn. <LINE> <LINE> [Một thử thách lấy cảm hứng từ một ngày thực sự tồi tệ từ sự tuyệt vời, MUST-PLAY Cataclysm: Dark Days Ahead] ",
+
+	Challenge_Challenge1_name = "Nhà trong rừng - Người cuối cùng",
+	Challenge_Challenge1_desc = "Bạn có thể nghe thấy họ đang đến gần.Những người chết, lấn chiếm cabin bị cô lập của bạn từ mọi góc độ.Cái chết là không thể tránh khỏi, nhưng một khẩu súng ngắn là gần gũi. <LINE> <LINE> Last Stand có các sóng zombie vô tận với số lượng ngày càng tăng.Sống sót càng lâu càng tốt chống lại tỷ lệ cược áp đảo.",
+
+	Challenge_Challenge2_name = "Nhà trong rừng - Người tích lũy",
+	Challenge_Challenge2_desc = "Một ngày khác, một cabin khác sẵn sàng để nhốm máu.Những đám zombie đang ở trên bạn, và cái chết của bạn sẽ đau đớn như nó khủng khiếp.Vì vậy, đi ra ngoài chiến đấu ...chiến đấu ...<LINE> <LINE> Last Stand – Accumulator có các sóng zombie vô tận với số lượng ngày càng tăng.Sử dụng tiền kiếm được bằng cách giết Zeds để mua thiết bị, tăng cấp và sửa chữa vũ khí của bạn.", ",
+
+    Challenge_AStormIsComing_name = "Một cơn bão đang đến",
+	Challenge_AStormIsComing_desc = "Những đám mây đang tập trung trên Kentucky. Có thể nghe thấy tiếng sấm sét ở phía xa. <LINE> <LINE> Đây là một cơn bão sẽ phát triển và trở lại trong sự hung dữ của nó, nhưng nó sẽ không bao giờ kết thúc. ",
+
+    Challenge_TheDescendingFog_name = "Sương mù giảm dần",
+    Challenge_TheDescendingFog_desc = "Mọi người lần đầu tiên nhìn thấy nó trên mặt nước. Một tấm chăn trắng mờ nhạt trên sông Ohio. <LINE> <LINE> Nó bắt đầu như một màn sương.Sau đó, nó bao bọc thị trấn.Các thị trấn chết tiếng la hét trong sự u ám.Bây giờ họ bước ra đó.<LINE> <LINE> Vô hình, chưa từng thấy và không ngừng theo đuổi cuộc sống.",
+
+    Challenge_Kingsmouth_name = "Kingsmouth",
+    Challenge_Kingsmouth_desc = "Tận hưởng một kỳ nghỉ thư giãn trên đảo Kingsmouth!",
+
+    Challenge_Studio_name = "Phòng thu",
+    Challenge_Studio_desc = "Nơi tất cả các bộ phim hay nhất được quay!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Nhấn" O "để tăng cường vĩnh viễn và chi một số tiền.",
+	Challenge_Challenge2_WaveStart = "Đợt %1 trong : %2 (Nhấn Enter để bỏ qua)",
+	Challenge_Challenge2_WaveDuration = "Đợt %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Số Zombie còn lại : %1",
+	Challenge_Challenge2_Money = "Tiền : %1",
+	Challenge_Challenge2_Money2 = "Người chơi %1 tiền : %2",
+	Challenge_Challenge2_WaveFinished = "Đợt %1 hoàn thành trong: %2",
+	Challenge_Challenge2_MoneyGained = "Tiền có được : %1",
+	Challenge_Challenge2_XPGained = "Kinh nghiệm có được : %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Người sống sót cuối cùng",
+	Challenge_Challenge2_TabPlayer = "Người chơi",
+	Challenge_Challenge2_Weapons = "Vũ khí",
+	Challenge_Challenge2_TabItems = "Vật phẩm",
+	Challenge_Challenge2_TabRepair = "Sửa chữa",
+	Challenge_Challenge2_CurrentXp = "XP : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP"
+	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+	Challenge_Challenge2_GoldBonus = "Thưởng vàng",
+	Challenge_Challenge2_XpBonus = "XP Thưởng",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 Tối đa",
+	Challenge_Challenge2_ButtonStartGold = "+%1 vàng khi bắt đầu - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "Vàng tối đa khi bắt đầu %1",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Kĩ năng",
+	Challenge_Challenge2_PermanentBonus = "Tiền thưởng vĩnh viễn",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Nghề mộc",
+	Challenge_Challenge2_Health = "Sức khỏe",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Sửa chữa vũ khí",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "Sức khỏe",
+
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Trung tâm mở cửa lúc 9 giờ sáng.<LINE> <LINE> Hãy sẵn sàng cho đám đông ... ",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Trong ba ngày, mùa đông bất tận bắt đầu.<LINE> <LINE> Kết thúc ấm áp ...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> In 24 hours your trip back to Knox County will become Hell on Earth...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Thời tiết xấu vô tận phía trước ... ",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Nó đang trở nên mù sương ... ",
+}

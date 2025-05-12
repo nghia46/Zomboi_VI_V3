@@ -1,0 +1,8 @@
+Rosewood
+ <LINE> <LINE>
+  Một kỳ nghỉ ngắn ở Rosewood thật dễ chịu làm sao!, nhưng một kỳ nghỉ dài thì sao nhỉ?
+  Chà, các tù nhân của Trại giam Knox nổi tiếng sẽ nói với bạn: điều đó không sẽ không vui lắm đâu! 
+ <LINE> <LINE>
+  Có vị trí địa lý lý tưởng để dễ dàng tiếp cận, Rosewood là một trung tâm cộng đồng để quản lý và các dịch vụ cộng đồng cũng như một trung tâm giam giữ tù nhân lớn.
+  Tòa án quận, sở cứu hỏa, cơ sở thực thi pháp luật cũng được tân trang lại gần đây, biến đây thành một trong những thị trấn quan trọng nhất trong khu vực! Hãy đến thăm ngay hôm nay!
+
