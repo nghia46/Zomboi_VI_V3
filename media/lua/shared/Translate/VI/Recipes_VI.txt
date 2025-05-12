@@ -1,5 +1,6 @@
+--Xong
 Recipes_VI = {
-    Recipe_Add_Crafted_Trigger = "Thêm Bộ Kích Hoạt Chế Tạo",
+Recipe_Add_Crafted_Trigger = "Thêm Bộ Kích Hoạt Chế Tạo",
 Recipe_Add_Motion_Sensor_V1 = "Thêm Cảm Biến Chuyển Động V1",
 Recipe_Add_Motion_Sensor_V2 = "Thêm Cảm Biến Chuyển Động V2",
 Recipe_Add_Motion_Sensor_V3 = "Thêm Cảm Biến Chuyển Động V3",
