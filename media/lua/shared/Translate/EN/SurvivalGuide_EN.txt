@@ -1,4 +1,4 @@
-SurvivalGuide_EN = {
+gữi rmbSurvivalGuide_EN = {
 	SurvivalGuide_WindowTitle = "ZOMBOID SURVIVAL GUIDE",
 	SurvivalGuide_entrie1title = "#1 - THE BASICS",
 	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - CONTROL YOURSELF <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> You're not going to survive long if you don't take some deep breaths, and learn the basics.",
